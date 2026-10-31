@@ -54,4 +54,4 @@ Translate each and place them in the respective locations (`[module]/src/main/re
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    along with this program.  If not, seehttps://github.com/topjohnwu/Magisk/blob/master/.agents%2Fskills%2Fmagisk-git%2FSKILL.md <http://www.gnu.org/licenses/>.
